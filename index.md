@@ -1,4 +1,14 @@
-## Hello World
+<div id="badges">
+  <a href="www.linkedin.com/in/fabiopino">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="width:150px; border:0px" height=50px/>
+  </a>  
+  <a href="">
+    <img src="https://img.shields.io/badge/GoogleScholar-critical?style=for-the-badge&logo=googlescholar&logoColor=white" alt="GoogleScholar Badge" style="width:200px; border:0px" height=50/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/ResearchGate-lightseagreen?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Badge"  style="width:200px; border:0px" height=50/>
+  </a>
+</div>
 
 ## Welcome to GitHub Pages
 
