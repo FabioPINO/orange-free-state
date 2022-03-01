@@ -16,10 +16,6 @@ You can use the [editor on GitHub](https://github.com/FabioPINO/orange-free-stat
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-
-```markdown
-Syntax highlighted code block
-
 # Header 1
 ## Header 2
 ### Header 3
