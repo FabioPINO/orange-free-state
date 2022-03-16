@@ -17,8 +17,7 @@ You can use the [editor on GitHub](https://github.com/FabioPINO/orange-free-stat
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 # My English dictionary
-<a href="https://fabiopino.github.io/orange-free-state/languages/english/English_Dictionary.pdf" target="_blank">PDF.</a>
-
+<embed src="https://fabiopino.github.io/orange-free-state/languages/english/English_Dictionary.pdf" type="application/pdf" />
 ## Header 2
 ### Header 3
 
