@@ -1,6 +1,6 @@
 <div id="badges">
-  <a href="www.linkedin.com/in/fabiopino">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="width:150px; border:0px" height=auto>
+  <a href="https://www.linkedin.com/in/fabiopino">
+    <img src="https://github.com/FabioPINO/orange-free-state/blob/gh-pages/images/top_page_images/image_linkedin.png" alt="LinkedIn Badge" style="width:150px; border:0px" height=auto>
   </a>  
   <a href="">
     <img src="https://img.shields.io/badge/GoogleScholar-critical?style=for-the-badge&logo=googlescholar&logoColor=white" alt="GoogleScholar Badge" style="width:200px; border:0px" height=auto>
