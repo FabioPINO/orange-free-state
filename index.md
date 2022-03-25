@@ -10,8 +10,10 @@
   </a>
 </div>
 
+## English Dictionary
 
-<a href="https://github.com/FabioPINO/orange-free-state/blob/gh-pages/languages/english/English_Dictionary.pdf" target="_blank">PDF.</a>
+[English Dictionary](https://github.com/FabioPINO/orange-free-state/blob/gh-pages/languages/english/English_Dictionary.pdf) 
+
 
 ## Welcome to GitHub Pages
 
