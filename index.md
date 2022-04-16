@@ -15,6 +15,9 @@
 [English Dictionary](https://github.com/FabioPINO/orange-free-state/blob/gh-pages/languages/english/English_Dictionary.pdf) 
 
 
+Orange free state is a place of intellectual freedom where I will share my thoughts about scince, hisotry, space exploraiton and much more.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/FabioPINO/orange-free-state/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
