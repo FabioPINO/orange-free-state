@@ -3,7 +3,7 @@
 
 <head>
   <meta charset='UTF-8'>
-  <title>Portfolio Homepage</title>
+  <title>Orange Free State</title>
   <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="latex.css">
@@ -21,12 +21,16 @@
         <div class="nav-link-wrapper active-nav-link">
           <a href="about.html">About</a>
         </div>
+		
+        <div class="nav-link-wrapper">
+          <a href="about.html">Languages</a>
+        </div>		
 
       </div>
 
       <div class="right-side">
         <div class="brand">
-          Fabio PINO
+          Orange Free State
         </div>
       </div>
     </div>
@@ -39,21 +43,21 @@
         </div>
 
         <div class="profile-image-name">
-          Fabio PINO
+          Fabio Pino
         </div>		
 
 		<div class="nav-wrapper-social-media" >
 			<div class="nav-link-wrapper-social">
-				<a href="WEBSITE URL HERE" target="blank" title="DESCRIPTION OF LINK/WEBSITE"> <img src="images/linkedin.png" border="0" /></a>
+				<a href="https://www.linkedin.com/in/fabiopino" target="blank" title="DESCRIPTION OF LINK/WEBSITE"> <img src="images/linkedin.png" border="0" /></a>
 			</div>
 			<div class="nav-link-wrapper-social">
-			<a href="WEBSITE URL HERE 2" target="blank" title="DESCRIPTION OF LINK/WEBSITE 2"> <img src="images/google_scholar.png" border="0" /></a>
+			<a href="https://scholar.google.com/citations?user=JaRp8K4AAAAJ&hl=en&oi=ao" target="blank" title="DESCRIPTION OF LINK/WEBSITE 2"> <img src="images/google_scholar.png" border="0" /></a>
 			</div>
 			<div class="nav-link-wrapper-social">			
-			<a href="WEBSITE URL HERE 3" target="blank" title="DESCRIPTION OF LINK/WEBSITE 3"> <img src="images/research_gate.png" border="0" /></a>
+			<a href="https://www.researchgate.net/profile/Fabio-Pino-2?ev=hdr_xprf&_sg=8kAFJToXVuc4DCgLAk-hs4Hjy34XahpWIfZwLS4Ae8lzPEJe0gPc5X2LMIEg4-715LKpk16QDPtfaEfEl4HaCyP-" target="blank" title="DESCRIPTION OF LINK/WEBSITE 3"> <img src="images/research_gate.png" border="0" /></a>
 			</div>
 			<div class="nav-link-wrapper-social">			
-			<a href="WEBSITE URL HERE" target="blank" title="DESCRIPTION OF LINK/WEBSITE"> <img src="images/github.png" border="0" /></a>
+			<a href="https://github.com/FabioPINO" target="blank" title="DESCRIPTION OF LINK/WEBSITE"> <img src="images/github.png" border="0" /></a>
 			</div>
 		</div>
 		
@@ -75,6 +79,7 @@
     </div>
 
   </div>
+<a href="AM221_lecture9.pdf">Link to a pdf</a>
 
 </body>
 

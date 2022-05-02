@@ -3,16 +3,17 @@
 
 <head>
   <meta charset='UTF-8'>
-  <title>Portfolio Homepage</title>
+  <title>Orange Free State</title>
   <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
-  <link rel="stylesheet" href="https://latex.now.sh/style.css">
+  <link rel="stylesheet" href="latex.css">
 </head>
 
 <body>
   <div class="container">
     <div class="nav-wrapper">
       <div class="left-side">
+	  
         <div class="nav-link-wrapper active-nav-link">
           <a href="index.html">Home</a>
         </div>
@@ -20,34 +21,44 @@
         <div class="nav-link-wrapper">
           <a href="about.html">About</a>
         </div>
+		
+        <div class="nav-link-wrapper">
+          <a href="about.html">Languages</a>
+        </div>
 
       </div>
 
       <div class="right-side">
         <div class="brand">
-          Fabio PINO
+          Orange Free State 
         </div>
       </div>
     </div>
+	
+	<div class="banner-area">
+	</div>
+	<div class="two-column-wrapper">
+		<div class="profile-content-wrapper">
+				
+		  <h1>
+		  <span style="color: #ff8400"> Orange</span> 
+		  <span style="color: brown"> Free</span> 
+		  <span style="color: brown"> State</span>
+		  </h1>
+		  <p>Orange Free state is a place of intellectual freedom where I wil share my thoughts about fluid mechnaics, space exploraiton, languages, culture and much more.
+			 As the republic founded by the Dutch settlers in South Africa, this is a place of freedom where anyone can share their opinion on my posts and start 
+			enriching discussions together. 
+		  </p>
+
+		  <p>For this reason I decided to utilize a completely different development pattern that focuses on highly focused
+			communication and transparent design patterns. When I take on a project not only do I work to craft the application
+			according to the client's specifications, I give daily updates to ensure that the project is aligning properly
+			with the client's goals. The end result is the right product, delivered on time, and on budget.</p>
+		</div>
+	</div>
   </div>
 
 </body>
 
-<script>
-  const portfolioItems = document.querySelectorAll('.portfolio-item-wrapper');
-
-  portfolioItems.forEach(portfolioItem => {
-    portfolioItem.addEventListener('mouseover', () => {
-      console.log(portfolioItem.childNodes[1].classList)
-      portfolioItem.childNodes[1].classList.add('image-blur');
-    });
-
-    portfolioItem.addEventListener('mouseout', () => {
-      console.log(portfolioItem.childNodes[1].classList)
-      portfolioItem.childNodes[1].classList.remove('image-blur');
-    });
-  });
-
-</script>
 
 </html>
